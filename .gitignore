@@ -1,0 +1,15 @@
+# Dependencies (Tailwind CLI only — not needed to serve the static site)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local env / secrets (none expected, defence in depth)
+.env
+*.local

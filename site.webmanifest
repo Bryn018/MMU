@@ -1,0 +1,13 @@
+{
+  "name": "Maasai Mara SACCO Society Ltd",
+  "short_name": "Mara SACCO",
+  "description": "Jijenge Tujijenge — your trusted financial partner for growth and prosperity.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FBF8EE",
+  "theme_color": "#7CB342",
+  "icons": [
+    { "src": "favicon/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
