@@ -13,3 +13,6 @@ __pycache__/
 # Local env / secrets (none expected, defence in depth)
 .env
 *.local
+
+# Local Python venv (image-processing only, not part of static site)
+.venv/
